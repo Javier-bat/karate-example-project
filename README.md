@@ -1,11 +1,11 @@
 # **Prueba de apis sobre https://petstore.swagger.io/**
-######Para la prueba se utilizó Karate
-######https://github.com/karatelabs/karate
+###### Para la prueba se utilizó Karate
+###### https://github.com/karatelabs/karate
 
-##Requisitos:
+## Requisitos:
 + Java JDK 8 o superior
 + Maven 3.6
-##Estructura del proyecto:
+## Estructura del proyecto:
 ```
 .
 ├── pom.xml
